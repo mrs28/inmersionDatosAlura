@@ -4,7 +4,7 @@
 - Analizar datos con Python y Pandas. 
 
 - Utilizar varias funciones de esta biblioteca para explorar datos de anuncios inmobiliarios en la ciudad de Bogotá.
--
+
 ### CLASE 01 
 #### Aprenderás y pondrás en práctica en esta clase:
 
@@ -13,3 +13,8 @@
 - Explorar algunos gráficos de la documentación y aplicarlos al resto de columnas del DF, así como intentar sacar una conclusión.
 - Obtener otras estadísticas de los datos (como media, mediana, min, max).
 - Descubrir qué barrios no tienen nombres de calles.
+
+### CLASE 02 
+#### Continuarás con el análisis e iniciarás el procesamiento de los datos. 🤩 
+
+- Creae gráficos y visualizaciones con Seaborn. 
