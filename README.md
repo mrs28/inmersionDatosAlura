@@ -2,7 +2,6 @@
 ### Objetivos de aprendizaje:
 
 - Analizar datos con Python y Pandas. 
-
 - Utilizar varias funciones de esta biblioteca para explorar datos de anuncios inmobiliarios en la ciudad de Bogotá.
 
 ### CLASE 01 
